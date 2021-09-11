@@ -1,2 +1,2 @@
 # SentimentanalysisNIIT
-Predicting sentiments of students using machine learning and deep learning tools
+Predicting sentiments of customers or users using machine learning and deep learning tools.
